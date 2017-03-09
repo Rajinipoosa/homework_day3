@@ -63,13 +63,12 @@ end
     #     Expectation: [ 'London', 'Paris', 'Rome' ]
 
 
-  # def array_of_capital (countries)
+   # def array_of_capital(countries)
 
-  #   for arr in array_of_capital
+   #   for arr in countries
+   #      for arrays in arr
+   #         return  arrays.keys[]
+   #      end     
+   #   end
 
-  #        for arrays in arr
-  #         return arrays.first
-  #        end     
-  #   end
-
-  # end
+   # end

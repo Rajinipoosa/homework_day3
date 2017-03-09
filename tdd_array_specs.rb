@@ -22,24 +22,27 @@ end
 
 # def test_array_of_capital
  
-#        countries = {
-#           uk: {
-#             capital: 'London',
-#             population: 60
-#          },
-#           france: {
-#              capital: 'Paris',
-#              population: 70
-#            },
-#            italy: {
-#              capital: 'Rome',
-#              population: 56
-#            }
-#       }
-#       end
-#       result = 
-#       assert_equal( [ 'London', 'Paris', 'Rome' ],  result )
+#   countries = {
+#            uk: {
+#              capital: 'London',
+#              population: 60
+#           },
+#            france: {
+#               capital: 'Paris',
+#               population: 70
+#             },
+#             italy: {
+#               capital: 'Rome',
+#               population: 56
+#             }
+#        }
+#        result = array_of_capital(countries)
+
+#        assert_equal( [ 'London', 'Paris', 'Rome' ],  result )
+#  end
+       
+       
    
 
-# end
+ 
 end
